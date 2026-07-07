@@ -1,7 +1,4 @@
-<!--
-**hakhverdyansona8/hakhverdyansona8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi there, I'm Sona! 👋
-
 I am a passionate student and an aspiring Python Developer from Armenia. I love writing code, solving logic puzzles, and exploring the world of AI development.
 
 ## 🚀 About Me
